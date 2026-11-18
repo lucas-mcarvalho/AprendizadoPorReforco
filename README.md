@@ -4,6 +4,10 @@ Implementação do algoritmo **Q-Learning** (com uma matriz Q em NumPy, sem bibl
 para resolver um problema de **planejamento de trajetória**: o ambiente
 **CliffWalking-v1** do Gymnasium.
 
+
+## Vídeo da apresentação
+https://github.com/user-attachments/assets/83d411a2-eaf0-456d-b9e2-fdc7b937c0f3
+
 ## O problema
 <https://gymnasium.farama.org/environments/toy_text/cliff_walking/>
 
